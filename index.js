@@ -38,7 +38,6 @@ function randomName() {
     let toneSplits = tonePair.split('')
     let name1 = randomWord(parseInt(toneSplits[0]))
     let name2 = randomWord(parseInt(toneSplits[1]))
-    debugger
     return lastName + name1 + name2
 }
 

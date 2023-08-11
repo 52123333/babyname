@@ -1,2 +1,8 @@
 # babyname
 宝宝名
+
+<dependency>
+    <groupId>com.belerweb</groupId>
+    <artifactId>pinyin4j</artifactId>
+    <version>2.5.1</version>
+</dependency>
